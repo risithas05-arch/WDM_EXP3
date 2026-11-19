@@ -133,5 +133,19 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/411d9de9-f7bd-4633-a34e-73142c87461d" />
+
+
+
+<img width="1287" height="872" alt="image" src="https://github.com/user-attachments/assets/9c8caac5-e899-434e-99df-4399a2fcb351" />
+
+
+<img width="1281" height="837" alt="image" src="https://github.com/user-attachments/assets/e17a4f86-0ce5-4038-a80c-06268b082d37" />
+
+
+
+
 
 ### Result:
+
+Thus, the GSP Algorithm was successfully implemented in Python, and frequent sequential patterns were discovered and visualized using Matplotlib
